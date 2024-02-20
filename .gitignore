@@ -1,0 +1,13 @@
+/*
+!app/
+app/etc/*
+!app/etc/config.php
+!pub/
+pub/*/
+!pub/errors/
+!.gitignore
+!**/.gitkeep
+!composer.*
+!cma.js
+!package.json
+!yarn.lock
