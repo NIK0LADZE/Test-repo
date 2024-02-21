@@ -2680,7 +2680,7 @@
     lodash "^4.17.20"
     xmldom "^0.5.0"
 
-"@scandipwa/scandipwa@0.0.0":
+"@scandipwa/scandipwa@6.2.3":
   version "6.2.3"
   resolved "https://registry.yarnpkg.com/@scandipwa/scandipwa/-/scandipwa-6.2.3.tgz#67b2d8f186842789dfbf57789af79503b06ade6f"
   integrity sha512-n2E0o2PUWPu6yJ7sUtY1D4uYxnwNJKeYgzip2ds17pijQ/FOATgVSbFrxHjkm5pQ9XqD1mo/IPlMMO5V0WFOcw==
